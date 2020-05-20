@@ -1,0 +1,14 @@
+#rootCanvas {
+  position: relative;
+  box-sizing: border-box;
+}
+
+#rootCanvas > canvas {
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
